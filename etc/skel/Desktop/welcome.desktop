@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=firefox http://www.netrunner.com/readme-1803
+Exec=firefox https://www.netrunner.com/readme-debian
 Icon=help-about
 Name=Readme
 NoDisplay=false
